@@ -1,11 +1,6 @@
 import java.util.*;
-/**CECS 227 Sec 02: Object Oriented Application Development
- * Lab 06: Dragon Trainer
- * Group: 05
- * Julia Navarro & Dhruv Savla
- * Thursday, February 25, 2021
 
- * Main.java is a game wher ethe user must try to defeat 3 dragons before dying. The game will end once the user is defeated by the
+/**Main.java is a game wher ethe user must try to defeat 3 dragons before dying. The game will end once the user is defeated by the
  * dragons or deafeats all 3 dragons. This class gathers information from Dragon.java, FireDragon.java, and FlyingDragon.java to create 
  * dragons needed for this game. */
 class Main {
